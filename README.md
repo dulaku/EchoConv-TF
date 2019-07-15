@@ -20,9 +20,9 @@ The model's efficiency could almost certainly be improved; its readability defin
 This code is descended from the work of many people smarter than me. I highly recommend checking their work out.
 
 * [Tensorflow Recurrent Neural Network tutorial](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767) by Erik Hallström
-	** Some of the API calls in this are out of date but the groundwork is solid
+	* Some of the API calls in this are out of date but the groundwork is solid
 * [Multi-GPU Training in ProGAN](https://github.com/tkarras/progressive_growing_of_gans/blob/master/tfutil.py) by NVIDIA/Tero Karras
-	** Most of the multi-GPU logic is under the Optimizer class
+	* Most of the multi-GPU logic is under the Optimizer class
 * [Keras Dataloaders](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly) by Afshine Amidi and Shervine Amidi
 
 # Requirements
