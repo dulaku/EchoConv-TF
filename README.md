@@ -7,7 +7,7 @@ This model exists as a template for Tensorflow models. I put this together to le
 * Recurrence
 * Convolution
 * Model Saving/Loading
-* Training Visualization
+* Training Visualization (see [Example.png](/Example.png))
 * Multithreaded Data Loading
 * Multi-GPU Training
 
